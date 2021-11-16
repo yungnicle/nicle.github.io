@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap');
+
+html  {
+    background-color: hsl(233, 47%, 7%);
+    font-family: 'Inter', sans-serif;
+color:aliceblue;
+margin: 0 auto;
+width: 1440px;
+font-size: 15px;
+}
+
+
+.diff{
+    font-family: 'Lexend Deca', sans-serif;
+    text-transform: uppercase;
+    font-weight: 400;
+    color:hsla(0, 0%, 100%, 0.6);
+    font-size: 15px;
+    
+}
+
+li{
+    font-weight: 700;
+    font-size: 25px;
+    
+}
+
+#card{
+    background: top right no-repeat url(../stats-preview-card-component-main/images/image-header-desktop.jpg),hsl(244, 38%, 16%);
+    height: 420px;
+    width: 75%;
+    border-radius: 10px;
+    margin: 172px auto;
+    
+}
+
+
+p{
+    font-size: 15px;
+    color: hsla(0, 0%, 100%, 0.75);
+    line-height: 25px;
+
+}
+
+
+.text{
+  width: 400px;
+  margin-left: 60px;
+  padding-top: 38px;
+
+}
+
+
+h1{
+    font-size: 37px;
+}
+
+
+
+ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 40px;
+    padding-left: 10px;
+}
+
+
+
+.back{
+    background: rgba(172, 93, 220,0.5);
+
+
+}
+
+
+
+{}
+
+
+{}
+
+
+{}
+
+
+{}
