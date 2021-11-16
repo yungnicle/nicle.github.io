@@ -26,7 +26,7 @@ li{
 }
 
 #card{
-    background: top right no-repeat url(../stats-preview-card-component-main/images/image-header-desktop.jpg),hsl(244, 38%, 16%);
+    background: top right no-repeat url(image-header-desktop.jpg),hsl(244, 38%, 16%);
     height: 420px;
     width: 75%;
     border-radius: 10px;
